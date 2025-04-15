@@ -8,10 +8,16 @@ A simple yet effective GUI-based application built with Python, Tkinter, and PyC
 🔓 One-click decryption of .enc files back to original images
 💡 Secure padding/unpadding and IV handling
 
-📸 GUI Preview
+📸 GUI Preview 
 
+Main Menu
 ![Screenshot of the GUI](assets/GUI-screenshots/GUI.png)
 
+Encryption Image Selection
+![Screenshot of the GUI](assets/GUI-screenshots/GUI-Encryption.png)
+
+Encryption Completed
+![Screenshot of the GUI](assets/GUI-screenshots/GUI-Encryption-Complete.png)
 
 🧪 Requirements
 Python 3.x
