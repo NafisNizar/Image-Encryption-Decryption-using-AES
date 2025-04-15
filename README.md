@@ -11,12 +11,15 @@ A simple yet effective GUI-based application built with Python, Tkinter, and PyC
 📸 GUI Preview
 
 Main Menu
+
 ![Screenshot of the GUI](assets/GUI-screenshots/GUI.png)
 
 Encryption Image Selection
+
 ![Screenshot of the GUI](assets/GUI-screenshots/GUI-Encryption.png)
 
 Encryption Completed
+
 ![Screenshot of the GUI](assets/GUI-screenshots/GUI-Encryption-Complete.png)
 
 🧪 Requirements
