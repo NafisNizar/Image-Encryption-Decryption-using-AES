@@ -20,6 +20,14 @@ Encryption Image Selection
 
 Encryption Completed
 
+![Screenshot of the GUI](assets/GUI-screenshots/GUI-Decryption-Complete.png)
+
+Decryption Image Selection
+
+![Screenshot of the GUI](assets/GUI-screenshots/GUI-Decryption.png)
+
+Decryption Completed
+
 ![Screenshot of the GUI](assets/GUI-screenshots/GUI-Encryption-Complete.png)
 
 🧪 Requirements
