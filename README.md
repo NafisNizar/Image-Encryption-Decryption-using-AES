@@ -10,7 +10,7 @@ A simple yet effective GUI-based application built with Python, Tkinter, and PyC
 
 📸 GUI Preview
 
-[Screenshot of the GUI](assets/GUI-screenshots/GUI.png)
+![Screenshot of the GUI](assets/GUI-screenshots/GUI.png)
 
 
 🧪 Requirements
