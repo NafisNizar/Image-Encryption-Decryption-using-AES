@@ -9,8 +9,8 @@ A simple yet effective GUI-based application built with Python, Tkinter, and PyC
 💡 Secure padding/unpadding and IV handling
 
 📸 GUI Preview
-(Add screenshot here if available)
-Example: assets/screenshot.png
+![Screenshot of the GUI](assets/GUI-screenshots/GUI.png)
+
 
 🧪 Requirements
 Python 3.x
