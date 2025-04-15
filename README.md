@@ -20,7 +20,7 @@ Encryption Image Selection
 
 Encryption Completed
 
-![Screenshot of the GUI](assets/GUI-screenshots/GUI-Decryption-Complete.png)
+![Screenshot of the GUI](assets/GUI-screenshots/GUI-Encryption-Complete.png)
 
 Decryption Image Selection
 
@@ -28,7 +28,7 @@ Decryption Image Selection
 
 Decryption Completed
 
-![Screenshot of the GUI](assets/GUI-screenshots/GUI-Encryption-Complete.png)
+![Screenshot of the GUI](assets/GUI-screenshots/GUI-Decryption-Complete.png)
 
 🧪 Requirements
 Python 3.x
